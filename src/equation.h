@@ -1,6 +1,7 @@
 #ifndef VLD_EQUATION_H_
 #define VLD_EQUATION_H_
 
+using namespace std;
 using namespace cv;
 
 //theta 取 [0, 180)

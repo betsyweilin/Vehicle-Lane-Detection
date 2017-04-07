@@ -31,3 +31,11 @@
 后面会慢慢公开更多的东西。  
 
 十分感谢
+
+
+=========betsyweilin add below==================
+1.make 之后生成main可执行文件
+2. 运行 ./main ../sample/wandaor.mov ,可以看见是 each frame被处理的图像， videoimage,roiimage, canvs,retimage.
+3. 按c显示下一frame
+
+

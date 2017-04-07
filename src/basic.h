@@ -1,6 +1,7 @@
 #ifndef VLD_BASIC_H_
 #define VLD_BASIC_H_
 
+using namespace std;
 #include <opencv2/core/core.hpp>
 #include <opencv2/gpu/gpu.hpp>
 #include <opencv2/highgui/highgui.hpp>

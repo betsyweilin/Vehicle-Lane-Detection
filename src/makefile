@@ -40,7 +40,7 @@ endif
 
 prefix=/usr/local
 OCVFLAGS=-I${prefix}/include/opencv2 -I${prefix}/include/opencv -I${prefix}/include
-OCVLIBS=-L${prefix}/lib -lopencv_core -lopencv_highgui -lopencv_imgproc -lopencv_ml -lopencv_video -lopencv_features2d -lopencv_flann -lopencv_objdetect -lopencv_calib3d
+OCVLIBS=-L${prefix}/lib -lopencv_core -lopencv_highgui -lopencv_imgproc -lopencv_ml -lopencv_video -lopencv_features2d -lopencv_flann -lopencv_objdetect -lopencv_calib3d -lopencv_videoio
 
 LIBRARY=
 CFLAGS=$(STD) $(DEFINE_MACROS)
